@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "multiblob-http": "^1.0.0",
-    "scuttlebot": "11.3.5"
+    "scuttlebot": "github:ssbc/scuttlebot#11.3.x-fixups"
   },
   "devDependencies": {
     "cat-names": "~1.0.2",
